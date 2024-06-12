@@ -1,0 +1,4 @@
+public enum TipoPokemon
+{
+    AGUA,FUEGO,ELECTRICO,TIERRA,DRAGON,VOLADOR,PLANTA
+}
